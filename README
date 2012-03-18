@@ -1,0 +1,8 @@
+Based on the simple fall plugin written by captainawesome7
+
+http://forums.bukkit.org/threads/fun-simplefall-v1-1-simple-fall-damage-disable-953.15072/
+
+Just a simple re-write that makes it compatible with craftbukkit 1.2.
+
+Permissions as of V 0.1:
+	nofall.nofalldamage - Enabling this will cancel any fall damage caused to a player.
