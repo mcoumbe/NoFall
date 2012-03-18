@@ -1,0 +1,13 @@
+name: MyFirstPlugin
+main: uk.co.kicraft.nofall.NoFall
+version: 0.1
+    
+permissions:
+    nofall.*:
+        description: Gives access to all nofall commands
+        default: false
+        children:
+            nofall.nofalldamage: true
+    nofall.nofalldamage:
+        description: stops fall damage
+        default: false
